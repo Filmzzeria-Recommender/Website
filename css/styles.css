@@ -1,0 +1,165 @@
+
+#title{
+  /* background-color: #e84545; */
+  color: #fff;
+  padding-top : 0%;
+  text-align: left;
+  background-image: url("https://repository-images.githubusercontent.com/275336521/20d38e00-6634-11eb-9d1f-6a5232d0f84f")
+  /* background-image: url("https://st3.depositphotos.com/2978065/17299/v/600/depositphotos_172991224-stock-video-4k-abstract-dark-background-3d.jpg"); */
+}
+
+h1{
+  font-family: "Montserrat-Black";
+  font-size:3.5rem;
+  line-height: 1.5;
+}
+
+h2{
+  font-family: "Montserrat-Bold";
+  font-size:2rem;
+}
+
+h3{
+  font-family: "Montserrat-Bold";
+  font-weight: bold;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.abc{
+  font-family: Montserrat-Bold;
+  font-size: 3.5rem;
+
+}
+p{
+  color: #8f8f8f;
+}
+body {
+  font-family: "Montserrat"
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.navbar-brand{
+   font-family: "Ubuntu";
+   font-size: 2.5rem;
+   font-weight: "bold";
+ }
+
+.navbar-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+
+}
+
+.download-button{
+  margin:5% 3% 5% 0;
+}
+
+.title-image{
+  width:140%;
+  height: 123%;
+  position: relative;
+  right: 200px;
+  z-index: 0;
+}
+
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+@media (max-width: 1028px)
+{
+  #title{
+    text-align: center;
+  }
+
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.icon{
+  color: black;
+  margin-bottom: 1rem;
+}
+ .icon:hover{
+   color: #393e46;
+ }
+
+#testimonials{
+
+  text-align: center;
+  /* background-image: url("https://i.pinimg.com/736x/de/83/62/de83623f6587626bc9980f479a7a144c.jpg"); */
+  background-image: url("https://www.desktopbackground.org/download/3840x2160/2014/10/24/845068_movie-wallpaper-batman-the-dark-knight-rises-3d-wallpapers-photo_4208x2170_h.jpg");
+  background-size: cover;
+  color:#fff;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+.test{
+  font-size: 2rem;
+  line-height: 1.5;
+}
+.testimonial-image{
+  margin: 10px;
+  width:50%;
+  height:50%;
+}
+.testimonial-image1{
+  margin: 10px;
+  width:20%;
+  height:20%;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+#press{
+  background-color: black;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.price-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+#cta{
+  background-color: black;
+  /* background-image: url("https://wallpapermemory.com/uploads/794/pirates-of-the-caribbean-at-world-s-end-background-1080p-69210.jpg"); */
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+}
+.head{
+  font-family: Montserrat-Bold;
+  font-size: 3.5rem;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+.social-icon{
+  margin: 20px 10px;
+}
